@@ -1,0 +1,12 @@
+[submodule "batch-orchestrator-docker"]
+	path = batch-orchestrator-docker
+	url = https://github.com/ArouayAb/batch-orchestrator-docker.git
+[submodule "batch-orchestrator-backend"]
+	path = batch-orchestrator-backend
+	url = https://github.com/ArouayAb/batch-orchestrator-backend.git
+[submodule "batch-orchestrator-frontend"]
+	path = batch-orchestrator-frontend
+	url = https://github.com/ArouayAb/batch-orchestrator-frontend.git
+[submodule "batch-orchestrator-scheduler"]
+	path = batch-orchestrator-scheduler
+	url = https://github.com/ArouayAb/batch-orchestrator-scheduler.git
